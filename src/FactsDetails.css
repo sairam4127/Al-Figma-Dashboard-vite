@@ -1,0 +1,21 @@
+.facts-edit-input-ele{
+    overflow-y:scroll;
+}
+.facts-edit-para-ele{
+    overflow:scroll;
+   padding:8px;
+    background-color: #FFA18340;
+   width: 80%;
+height: 56px;
+gap: 0px;
+border-radius: 10px ;
+opacity: 0px;
+border: none;
+outline: none;
+
+font-family: Inter;
+font-size: 18px;
+font-weight: 400;
+line-height: 21.78px;
+text-align: left;
+}

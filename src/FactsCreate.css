@@ -1,0 +1,45 @@
+.create-new-post-h1{
+    font-family: Inter;
+font-size: 26px;
+font-weight: 400;
+line-height: 31.47px;
+text-align: left;
+
+}
+.facts-create-user-id-input-cont{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-right:35%;
+    padding-left: 4%;
+    margin-bottom: 20px;
+}
+.facts-create-user-id-input-ele{
+    background-color: #FFA18340;
+   width: 80%;
+height: 56px;
+gap: 0px;
+border-radius: 10px ;
+opacity: 0px;
+border: none;
+outline: none;
+
+font-family: Inter;
+font-size: 18px;
+font-weight: 400;
+line-height: 21.78px;
+padding-left: 10px;
+
+
+
+
+}
+.create-new-post-err{
+    color: #FF0000;
+    font-family: Inter;
+font-size: 26px;
+font-weight: 400;
+line-height: 31.47px;
+text-align: left;
+
+}
